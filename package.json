@@ -23,6 +23,7 @@
     ]
   },
   "scripts": {
+    "lumo" : "./node_modules/lumo-cljs/bin/lumo",
     "postinstall": "node ./node_modules/vscode/bin/install",
     "test": "node ./node_modules/vscode/bin/test"
   },
